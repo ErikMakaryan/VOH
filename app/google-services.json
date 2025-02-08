@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946036655999",
+    "project_id": "vohr-182c0",
+    "storage_bucket": "vohr-182c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946036655999:android:120c13f9cd46c4ba3f3c4a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKBkhzqvXKemyP0VWuM8zLn1gMphgado"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
